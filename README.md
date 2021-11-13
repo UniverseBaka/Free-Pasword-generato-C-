@@ -1,1 +1,1 @@
-# Free-Pasword-generato-C-
+# Free-Pasword-generator-C-
