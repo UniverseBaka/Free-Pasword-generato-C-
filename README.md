@@ -1,1 +1,1 @@
-# Free-Pasword-generator-C-
+# Free-Pasword-generator-Csharp-
