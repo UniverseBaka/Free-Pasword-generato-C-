@@ -1,0 +1,10 @@
+var chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$$%^&*()";
+var stringChars = new char[50];//change the value that currently says 50
+var random = new Random();
+
+for (int i = 0; i < stringChars.Length; i++)
+{
+    stringChars[i] = chars[random.Next(chars.Length)];
+}
+Console.WriteLine(stringChars);
+var finalString = new String(stringChars);
